@@ -26,3 +26,5 @@ IES Marcos Zaragoza, Villajoyosa (Alicante). Curso 2026/2027.
 - Modelo de solicitud de permiso por asuntos particulares, fechado el 03/09/2026.
 - Diagrama E/R inicial del proyecto.
 - Propuesta de sprints.
+
+Esta documentación ha sido publicada mediante GitHub Pages.
